@@ -1,5 +1,5 @@
 <p align="center">
-<img src="img/[filename]" height="400">
+<img src="img/IMG_20180623_103417.jpg" height="400">
 <h1 align="center">Aviral Kumar Srivastava</h1>
 <h2 align="center">Student at UPES</h2>
 <p align='center'>
